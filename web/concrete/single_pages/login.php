@@ -129,6 +129,7 @@ $attribute_mode = (isset($required_attributes) && count($required_attributes));
         <?= t('Photo Credit:') ?>
         <a href="#" style="pull-right"></a>
     </div>
+    <div style="clear:both"></div>
 
     <script type="text/javascript">
         (function ($) {
